@@ -7,3 +7,8 @@ android studio的旅游APP
 # 旅游app客户端和后台管理系统 完整版 答疑和获取
 
 加QQ2579692606
+
+项目演示地址:
+
+https://www.bilibili.com/video/BV1ff4y1A7jz?from=search&seid=17483488342079126626&spm_id_from=333.337.0.0
+
