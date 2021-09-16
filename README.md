@@ -8,5 +8,5 @@
 
 # 项目演示
 
-https://www.bilibili.com/video/BV1ff4y1A7jz?from=search&seid=17483488342079126626&spm_id_from=333.337.0.0
+https://www.bilibili.com/video/BV1ff4y1A7jz
 
